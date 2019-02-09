@@ -1,5 +1,5 @@
 # Site settings
-baseurl = ""
+baseurl = "https://www.jaybarks.com"
 languageCode = "en"
 title = "JayBarks"
 theme = "hugo-theme-cactus-plus"
@@ -10,7 +10,7 @@ hasCJKLanguage = false
 [params]
 	author = "jaybarks"
 	description = "Blogs about what ever I feel like writing"
-	bio = "I fuck shit up"
+	bio = ""
 
 	#twitter = "your_twitter_id"
 	#facebook = "your_facebook_id"
