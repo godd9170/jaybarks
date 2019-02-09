@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.jaybarks.com"
+baseurl = "https://www.jaybarks.com/"
 languageCode = "en"
 title = "JayBarks"
 theme = "hugo-theme-cactus-plus"
