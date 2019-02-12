@@ -1,10 +1,14 @@
 ---
-author: "Jaybarks"
-date: 2019-02-09
 linktitle: Superbowl
+author: Jaybarks
 title: Why I loved the 2019 Super Bowl
-description:
+date: 2019-02-09T00:00:00.000Z
+description: description
 weight: 50
+tags:
+  - this
+  - that
+  - the other thing
 ---
 
 I have had a couple days now to digest everything that happened in this year’s Super Bowl and for some people, I am sure they had digested enough by the 9th punt of the game. However, I keep coming back to the fact that I actually loved the Super Bowl (this even coming from Dolphins fan). Call me a traditionalist, old fashioned or even boring, but watching that defensive battle did it for me. Maybe its because I mentally prepared myself pregame that this would be the last bit of meaningful NFL football until September and would force myself to love every minute of it. But maybe its because we witnessed something that doesn’t happen everyday, the lowest scoring Super Bowl ever. Which I understand to most normal/casual sports fans that sounds dreadful. Don’t get me wrong, watching Mahomes and Goff on week 11, Monday night take turns dismantling the unfortunate 11 players that were placed on the opposite side of the ball of them that night was the most fun I had watching football all year. With saying that I am also the guy yelling at my friends who are begging something to happen in the 6th inning of a scoreless MLB game that this is still in fact entertaining. Side thought. Wonder how the MLB will try to increase scoring this year. Hopefully whatever they do, it doesn’t cause some of the best pitchers in the game to end up on the DL with blisters…Anyways.  
