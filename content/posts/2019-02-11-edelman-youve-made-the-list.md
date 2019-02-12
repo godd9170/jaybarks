@@ -5,6 +5,10 @@ title: 'Edelman, you''ve made the list '
 date: 2019-02-11T21:59:50.836Z
 description: 'Super Bowl, Boston '
 weight: '-1'
+tags:
+  - superbowl
+  - nfl
+  - boston
 ---
 This really should have been posted a week ago, but nonetheless. My thoughts on seeing Edelman win Super Bowl MVP. 
 
