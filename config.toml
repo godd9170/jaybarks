@@ -15,11 +15,11 @@ hasCJKLanguage = false
 	#twitter = "your_twitter_id"
 	#facebook = "your_facebook_id"
 
-	enableRSS = true
+	enableRSS = false
 	enableToc = true
 
-	enableDisqus = true
-	disqusShortname = "your_disqus_short_name"
+	enableDisqus = false
+	# disqusShortname = "your_disqus_short_name"
 
 
 	enableSummary = false
@@ -47,7 +47,6 @@ hasCJKLanguage = false
 	home = ""
 	about = ""
 	archive = ""
-	subscribe = ""
 
 	olderPosts = ""
 	newerPosts = ""
@@ -75,5 +74,5 @@ hasCJKLanguage = false
 # Add additional social link entries underneath
 [social]
 	# facebook-square = "https://www.facebook.com/nodejh"
-	#twitter-square = "https://www.twitter.com/nodejh"
-	github-square = "https://www.github.com/nodejh"
+	# twitter-square = "https://www.twitter.com/nodejh"
+	# github-square = "https://www.github.com/nodejh"

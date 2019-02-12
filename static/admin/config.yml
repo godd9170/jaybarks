@@ -18,3 +18,4 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Weight", name: "weight", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Tags", name: "tags", widget: "list" }
