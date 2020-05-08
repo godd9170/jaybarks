@@ -9,7 +9,7 @@ hasCJKLanguage = false
 
 [params]
 	author = "jaybarks"
-	description = "Blogs about what ever I feel like writing"
+	description = ""
 	bio = ""
 
 	#twitter = "your_twitter_id"
